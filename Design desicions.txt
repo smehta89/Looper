@@ -1,0 +1,12 @@
+This file contains the design decision for the project
+
+->	Use beaglebone black for processing
+->	LCD(QT?) for display
+->	Infinite presets(3 for now)
+->	XML file for storing presets and channel states and names
+
+Future expansions:
+-> 	Bluetooth connection with android device
+->	Creating presets and loops via android app
+-> 	Custom names for channels and presets
+->	Loop recall
