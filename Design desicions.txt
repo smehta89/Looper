@@ -8,5 +8,6 @@ This file contains the design decision for the project
 Future expansions:
 -> 	Bluetooth connection with android device
 ->	Creating presets and loops via android app
+->  Pulling presets and loops into android app
 -> 	Custom names for channels and presets
-->	Loop recall
+->	Loop recall via app and lcd gui(space permitting)
